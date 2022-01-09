@@ -1,5 +1,6 @@
-- 👋 Hi there! I’m a pharmacist interested in becoming a software engineer. My current interest is in web development but I anticipate growth in other areas as well. 
-- 🌱 I’m currently learning HTML, CSS, and javascript.
+👋 Hi there! I’m a pharmacist interested in becoming a software engineer. My current interest is in web development but I anticipate growth in other areas as well. 
+
+🌱 I’m currently learning HTML, CSS, and javascript.
 
 In my free time, I enjoy playing video games and watching anime! Haha~ 
 
