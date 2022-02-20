@@ -6,7 +6,7 @@
 I graduated from the University of Washington with a PharmD degree and worked as a pharmacist for over 6 years. When I had the opportunity, I learned to program in an effort to expand my skillset and to create tools that would be helpful for my coworkers and patients.
 
 <br><br>
-<h3 align="middle">Connect With Me:</h3>
+<h3 align="middle">Connect with Me:</h3>
 <p align="middle">
 <a href="https://twitter.com/koulight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koulight" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/koulight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koulight" height="30" width="40" /></a>
