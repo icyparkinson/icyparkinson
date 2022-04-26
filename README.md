@@ -8,7 +8,6 @@ I graduated from the University of Washington with a PharmD degree and worked as
 <br><br>
 <h3 align="middle">Connect with Me:</h3>
 <p align="middle">
-<a href="https://twitter.com/koulight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koulight" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/koulight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koulight" height="30" width="40" /></a>
 </p>
 
