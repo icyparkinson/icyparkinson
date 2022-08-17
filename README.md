@@ -3,7 +3,7 @@
 
 <h3>About Me:</h3>
 <p>
-I graduated from the University of Washington with a PharmD degree and worked as a pharmacist for over 6 years. When I had the opportunity, I learned to program in an effort to expand my skillset and to create tools that would be helpful for my coworkers and patients.
+I graduated from the University of Washington with a PharmD degree and worked as a pharmacist for over 7 years. When I had the opportunity, I learned to program in an effort to expand my skillset and to create tools that would be helpful for my coworkers and patients.
 
 <br><br>
 <h3 align="middle">Connect with Me:</h3>
